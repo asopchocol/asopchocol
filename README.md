@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500&section=header&text=Welcome&fontSize=90&animation=twinkling&desc=HyungKi%20Kim's%20Profile)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=twinkling&desc=HyungKi%20Kim's%20Profile)
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" /> 안녕하세요. 김형기입니다.
 
