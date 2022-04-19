@@ -1,8 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500&section=header&text=Welcome&fontSize=90&animation=twinkling&desc=HyungKi%20Kim's%20Profile)
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" /> 안녕하세요. 김형기입니다.
+
+### 프로필
+
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f4e9.svg" width="16" /> <b>이메일</b> | asopchocol@gmail.com
+<br />
 
 <!--
 **asopchocol/asopchocol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
