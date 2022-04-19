@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=500&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500&section=header&text=Welcome&fontSize=90&animation=twinkling&desc=HyungKi%20Kim's%20Profile)
 
 
 <!--
